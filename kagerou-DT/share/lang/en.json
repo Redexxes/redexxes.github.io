@@ -178,7 +178,7 @@
       "graph-height": "Table line height"
     },
     "color": {
-      "_": "Guage Color",
+      "_": "Gauge Color",
       "gauge-default": "Default",
       "gauge-opacity": "Opacity",
       "position-tank": "Tank",
