@@ -1,7 +1,7 @@
 'use strict'
 
-const VERSION = '0.8.14'
-const CODENAME = 'minne'
+const VERSION = '0.8.15'
+const CODENAME = 'cold paradox'
 const DESCRIPTION = '記憶の片隅で眠っていた いつか聴いた旋律'
 
 const CONFIG_DEFAULT = {
@@ -249,7 +249,7 @@ const COLUMN_USE_LARGER = {
 const VALID_PLAYER_JOBS = [
   'GLA', 'GLD', 'MRD', 'PUG', 'PGL', 'LNC', 'ROG', 'ARC', 'THM', 'ACN', 'CNJ',
   'PLD', 'WAR', 'MNK', 'DRG', 'NIN', 'RPR', 'BRD', 'BLM', 'SMN', 'SCH', 'WHM',
-  'DRK', 'MCH', 'AST', 'SGE', 'SAM', 'RDM', 'BLU', 'GNB', 'DNC',
+  'DRK', 'MCH', 'AST', 'SGE', 'SAM', 'RDM', 'BLU', 'GNB', 'DNC', 'VPR', 'PCT',
   'CRP', 'BSM', 'ARM', 'GSM', 'LTW', 'WVR', 'ALC', 'CUL', 'MIN', 'BTN', 'FSH'
 ]
 
